@@ -1,3 +1,2 @@
-filter_parameter_logx = 1
-
-x = 
+filter_parameter_log
+x = 1
